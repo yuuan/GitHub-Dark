@@ -3,7 +3,7 @@
   --ghd-code-background: #141414;
   --ghd-code-color: #ccc;
 }
-.pl-c, .pl-c span { color: #5f5a60 !important; font-style: italic !important; } /* comment */
+.pl-c, .pl-c span { color: #928374 !important; font-style: italic !important; } /* comment */
 .pl-c1 { color: #cf6a4c !important; } /* constant */
 .pl-cce { color: #cf6a4c !important; font-weight: normal !important; } /* constant.character.escape */
 .pl-cn { color: #cf6a4c !important; } /* constant.numeric */
