@@ -2159,11 +2159,11 @@
   }
   /* git diff line additions (dark green) */
   .blob-code-addition {
-    background-color: #002800 !important;
+    background-color: #002828 !important;
     border-color: #060 !important;
   }
   .blob-num-addition {
-    background-color: #0a320a !important;
+    background-color: #0a3232 !important;
   }
   /* git diff line deletions (dark red) */
   .blob-code-deletion, .CodeMirror-linebackground.conflict-background,
@@ -2212,7 +2212,7 @@
   }
   /* custom hover highlight end */
   .blob-code-addition .x, .highlight .blob-code-addition .x {
-    background: #252 !important;
+    background: #257 !important;
     color: #eee !important;
   }
   .blob-code-deletion .x, .highlight .blob-code-deletion .x {
